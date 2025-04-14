@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I am Hrishikesh Nayaka<br>🎓 CS & Data Analytics @ IIT Patna<br>📊 Aspiring Data Analyst | Python • SQL • Excel • Power BI • Scikit-learn • Pandas • NumPy<br>🧠 Exploring AI, ML & Predictive Analytics for real-world impact<br>🌍 Focused on healthcare tech, air quality prediction, and IoT systems<br>💻 Projects with ESP32 • Sensors • Cloud (Azure Fundamentals Certified)<br>📚 Currently learning: Time Series • Data Cleaning • Sensitivity Analysis<br>📈 Building a study-abroad platform + Research in environmental data<br>🔗 Passionate about clean code, open source & lifelong learning<br>💬 Let’s connect, collaborate, and create something impactful!
+Hi, I am Hrishikesh Nayak<br>🎓 CS & Data Analytics @ IIT Patna<br>📊 Aspiring Data Analyst | Python • SQL • Excel • Power BI • Scikit-learn • Pandas • NumPy<br>🧠 Exploring AI, ML & Predictive Analytics for real-world impact<br>🌍 Focused on healthcare tech, air quality prediction, and IoT systems<br>💻 Projects with ESP32 • Sensors • Cloud (Azure Fundamentals Certified)<br>📚 Currently learning: Time Series • Data Cleaning • Sensitivity Analysis<br>📈 Building a study-abroad platform + Research in environmental data<br>🔗 Passionate about clean code, open source & lifelong learning<br>💬 Let’s connect, collaborate, and create something impactful!
 
 
 ## 🌐 Socials:
@@ -21,7 +21,4 @@ Hi, I am Hrishikesh Nayaka<br>🎓 CS & Data Analytics @ IIT Patna<br>📊 Aspir
 ---
 [![](https://visitcount.itsvg.in/api?id=hrishixnayak&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
